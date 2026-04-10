@@ -24,17 +24,6 @@
 
 ---
 
-## 🎯 **Live Preview**
-
-<div align="center">
-  
-![Portfolio Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Your+Portfolio+Preview)
-
-> ⭐ **Visit:** [aswini-portfolio.netlify.app](https://aswini-portfolio.netlify.app)
-
-</div>
-
----
 
 ## 🌟 **Features That Shine**
 
